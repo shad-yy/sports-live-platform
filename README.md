@@ -8,9 +8,13 @@ matches while staying fast, type-safe, and search-indexable.
 > This is a write-up of a live commercial product. The source is private; this
 > repository documents the architecture and the engineering decisions behind it.
 
-<!-- SCREENSHOT: add 2-3 shots of the scores / league / event UI here.
-     Recommended: a live-scores page, a league standings page, an event detail page. -->
+<img width="1920" height="1536" alt="screencapture-localhost-3000-2026-07-29-20_05_00" src="https://github.com/user-attachments/assets/95c73ad0-d515-4641-8754-0e76f1d674f8" />
+
+<img width="1920" height="1920" alt="screencapture-localhost-3000-2026-07-29-20_05_00 (1)" src="https://github.com/user-attachments/assets/1507fb96-97d4-423d-83fc-9c0ed30390ce" />
 <!-- ![Live scores](docs/scores.png) -->
+<img width="1920" height="2064" alt="image" src="https://github.com/user-attachments/assets/d56d4f2d-46b6-4474-b6a9-52ecb7ef932a" />
+<img width="1920" height="3490" alt="image" src="https://github.com/user-attachments/assets/2d972ada-1743-4844-bee0-ddea7d2080de" />
+
 <!-- ![League standings](docs/standings.png) -->
 
 ---
